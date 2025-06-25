@@ -6,7 +6,8 @@ A sleek, animated login and signup interface built using **HTML**, **CSS**, and 
 
 ## Preview
 
-> ![Optional screenshot here – you can add later by dragging image into GitHub or VS Code preview]
+![image](https://github.com/user-attachments/assets/5348f31b-5bc2-4211-91b7-7ead065e6e20)
+![image](https://github.com/user-attachments/assets/62e250a9-ceb4-446f-a3c9-f0de7d3bf1c4)
 
 ---
 
@@ -31,5 +32,5 @@ A sleek, animated login and signup interface built using **HTML**, **CSS**, and 
 
 ---
 
-##  Folder Structure
+
 
